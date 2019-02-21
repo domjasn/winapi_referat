@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Katalog Output nie kończy się ukośnikiem. To wystąpienie kompilacji doda ukośnik, ponieważ jest on niezbędny, aby możliwa była poprawna ocena katalogu Output.
+  MyLibrary.cpp
+     Trwa tworzenie biblioteki ..\..\Client2\Client2\MyLibrary.lib i obiektu ..\..\Client2\Client2\MyLibrary.exp
+  MyLibrary.vcxproj -> C:\Users\slash\Desktop\winapi_referat\MyLibrary\MyLibrary\..\..\Client2\Client2\MyLibrary.dll
